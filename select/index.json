@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "for 0.5",
+  "base_artist": "健屋花那",
+  "createdAt": "2026-02-17T03:49:38.194797Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "For What It’s Worth",
+      "artist": "Buffalo Springfield",
+      "has_synced": true,
+      "path": "select/01_For_What_It’s_Worth_Buffalo_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Country Girl (Shake It For Me)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/02_Country_Girl_(Shake_It_For_Me)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker feat. Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/03_Do_It_All_for_You_Alan_Walker_feat._Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker;Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/04_Do_It_All_for_You_Alan_Walker;Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Holding out for a Hero",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/05_Holding_out_for_a_Hero_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hymn for the Weekend",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/06_Hymn_for_the_Weekend_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If It Wasn’t For Trucks",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/07_If_It_Wasn’t_For_Trucks_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Paying For It (feat. Walker Hayes)",
+      "artist": "Levi Hummon feat. Walker Hayes",
+      "has_synced": true,
+      "path": "select/08_Paying_For_It_(feat._Walker_Hayes)_Levi_Hummon_feat._Walker_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Paying For It",
+      "artist": "Levi Hummon",
+      "has_synced": true,
+      "path": "select/09_Paying_For_It_Levi_Hummon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future feat. Tems & Drake",
+      "has_synced": true,
+      "path": "select/10_WAIT_FOR_U_(feat._Drake_&_Tems)_Future_feat._Tems_&_Drake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What I Wasn't Lookin' for",
+      "artist": "Ryan Robinette",
+      "has_synced": false,
+      "path": "select/11_What_I_Wasn't_Lookin'_for_Ryan_Robinette.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fishing for Fishies",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/12_Fishing_for_Fishies_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fishing For Fishies",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/13_Fishing_For_Fishies_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mars For The Rich",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/14_Mars_For_The_Rich_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "for 0.5",
+      "artist": "健屋花那",
+      "has_synced": false,
+      "path": "select/pl_01_for_0.5_健屋花那.txt"
+    }
+  ]
+}
